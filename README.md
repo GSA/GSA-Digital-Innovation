@@ -8,4 +8,4 @@ All of the data sources used were downloaded from https://github.com/GSA/open.gs
 Acting as a CMS, Drupal allows users to quickly add new sources of data and integrate them into the application.
 
 # Data Collection Insights
-Flatten last contract link to make the data easier to access.  It is not feasible to make the number of API calls necessary to gather all of the linked data.
+We recommend that the last contract document is flattened so that the data is easier to access.  
